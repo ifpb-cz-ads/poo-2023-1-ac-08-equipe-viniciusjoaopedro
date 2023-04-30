@@ -10,20 +10,4 @@ public class Computador extends Equipamento {
         this.processador = processador;
         this.ram = ram;
     }
-
-    public String getProcessador() {
-        return processador;
-    }
-
-    public void setProcessador(String processador) {
-        this.processador = processador;
-    }
-
-    public int getRam() {
-        return ram;
-    }
-
-    public void setRam(int ram) {
-        this.ram = ram;
-    }
 }
